@@ -1,14 +1,14 @@
 ---
 galaxy_info:
-  author: Bert Van Vreckem
+  author: vonpupp
   description: PURPOSE
   company:
   license: BSD
   min_ansible_version: 1.7
   platforms:
-  - name: EL
+  - name: arch
     versions:
-      - 7
+      - current
   categories:
     - system
 dependencies: []
