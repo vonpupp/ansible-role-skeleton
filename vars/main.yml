@@ -1,6 +1,8 @@
 # roles/ROLENAME/vars/main.yml
 ---
 
+ansible_python_interpreter: /usr/bin/python2
+
 ROLENAME_packages:
   - ROLENAME
 
