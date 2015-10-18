@@ -1,8 +1,8 @@
-`ROLENAME`
+ROLENAME
 ===
 
-[![Build Status](http://img.shields.io/travis/vonpupp/`ROLENAME`.svg?style=flat-square)](https://travis-ci.org/vonpupp/`ROLENAME`)
-[![Galaxy](http://img.shields.io/badge/galaxy-`ROLENAME`-blue.svg?style=flat-square)](https://galaxy.ansible.com/list#/roles/ZZZ)
+[![Build Status](http://img.shields.io/travis/vonpupp/ROLENAME.svg?style=flat-square)](https://travis-ci.org/vonpupp/ROLENAME)
+[![Galaxy](http://img.shields.io/badge/galaxy-ROLENAME-blue.svg?style=flat-square)](https://galaxy.ansible.com/list#/roles/ZZZ)
 
 An Ansible role for PURPOSE. Specifically, the responsibilities of this role are to:
 *
@@ -44,7 +44,7 @@ The playbook [`test.yml`](tests/test.yml) applies the role to a VM, setting role
 
 #### Contributing
 
-Issues, feature requests, ideas are [appreciated](https://github.com/vonpupp/`ROLENAME`/issues). Pull requests are also very welcome. Preferably, create a topic branch and when submitting, squash your commits into one (with a descriptive message).
+Issues, feature requests, ideas are [appreciated](https://github.com/vonpupp/ROLENAME/issues). Pull requests are also very welcome. Preferably, create a topic branch and when submitting, squash your commits into one (with a descriptive message).
 
 #### License
 
