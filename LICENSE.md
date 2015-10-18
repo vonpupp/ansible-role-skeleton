@@ -1,6 +1,6 @@
 # BSD License
 
-Copyright (c) 2014, Bert Van Vreckem, (bert.vanvreckem@gmail.com)
+Copyright (c) 2015, vonpupp, (vonpupp at google's email service)
 
 All rights reserved.
 

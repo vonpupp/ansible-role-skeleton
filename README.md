@@ -7,9 +7,9 @@ ROLENAME
 An Ansible role for PURPOSE. Specifically, the responsibilities of this role are to:
 *
 
-#### Requirements
+#### Requirements & dependencies
 
-No specific requirements
+None
 
 #### Role Variables
 
@@ -17,10 +17,6 @@ No specific requirements
 role_var1: yes                       # The role in enabled
 role_var2: www-data                  # -------------------
 ```
-
-#### Dependencies
-
-No dependencies.
 
 #### Usage
 

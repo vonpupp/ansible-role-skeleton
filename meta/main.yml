@@ -1,15 +1,15 @@
 ---
+dependencies: []
+
 galaxy_info:
   author: vonpupp
   description: PURPOSE
   company:
   license: BSD
-  min_ansible_version: 1.7
   platforms:
   - name: arch
     versions:
-      - current
+      - all
   categories:
     - system
-dependencies: []
-version: 1.0.0
+    - development
