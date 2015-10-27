@@ -16,6 +16,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Every Vagrant virtual environment requires a box to build off of.
   config.vm.box = "terrywang/archlinux"
+  #config.vm.network "private_network", ip: "192.168.50.5"
+
+  config.vm.network "public_network", bridge: "eth0"
 
   config.vm.define HOST_NAME do |node|
     node.vm.hostname = HOST_NAME
